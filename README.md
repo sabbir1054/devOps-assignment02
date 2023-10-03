@@ -23,6 +23,4 @@
 
 [Documentation](https://drive.google.com/file/d/1_-Go7JMDZn_niDoze35ndEZm2KSYAaAH/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1_-Go7JMDZn_niDoze35ndEZm2KSYAaAH/preview" width="100%" height="500px"></iframe>
-
 ---
