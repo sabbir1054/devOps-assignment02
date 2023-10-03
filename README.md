@@ -16,3 +16,12 @@
 ### TEXT brance
 
 ![text](https://i.ibb.co/7vrmdsV/text.png)
+
+
+
+---
+
+[Documentation](https://drive.google.com/file/d/1_-Go7JMDZn_niDoze35ndEZm2KSYAaAH/view?usp=sharing)
+
+
+---
